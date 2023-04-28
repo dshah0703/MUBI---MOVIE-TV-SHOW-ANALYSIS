@@ -16,3 +16,6 @@
 💡The final product was a dashboard that showcased the insights I found in the data. I attached a screenshot of the visualization to my LinkedIn post, and I'm excited to share my work with my network.
 
 ⭐Here is the link to the dataset: https://lnkd.in/g6Hr-mUd
+
+
+![image](https://user-images.githubusercontent.com/77552378/235240744-fbf37d63-3775-4a6a-9a12-cf62e5b408a2.png)
